@@ -5,15 +5,13 @@
 מפתחת Full Stack וסטודנטית להנדסת תוכנה (מה"ט). מתמחה בארכיטקטורת צד-שרת מורכבת, פיתוח ממשקי משתמש מתקדמים ושילוב סוכני AI (LLM & MCP) בסביבות עבודה ארגוניות. כותבת קוד מודולרי, נקי ובר-תחזוקה.
 
 ---
+### 🛠 טכנולוגיות וכלים
 
-## 🛠 טכנולוגיות וכלים
-
-**Backend:** `Node.js` | `Express` | `Python` | `C# .NET Core` | `Web API` | `Java`
-**Frontend:** `React` | `TypeScript` | `JavaScript` | `Angular` | `Redux Toolkit` | `Vite` | `MUI`
-**Database:** `MongoDB` | `SQL Server` | `DynamoDB`
-**Architecture & AI:** `MCP (Model Context Protocol)` | `LLM Integration` | `Microservices` | `OOP` | `Design Patterns`
-**Tools & DevOps:** `Git` | `AWS` | `Docker` | `Postman` | `Swagger` | `Linux`
-
+*   **Backend:** `Node.js`, `Express`, `Python`, `C# .NET Core`, `Web API`, `Java`
+*   **Frontend:** `React`, `TypeScript`, `JavaScript`, `Angular`, `Redux Toolkit`, `Vite`, `MUI`
+*   **Database:** `MongoDB`, `SQL Server`, `DynamoDB`
+*   **Architecture & AI:** `MCP (Model Context Protocol)`, `LLM Integration`, `Microservices`, `OOP`, `Design Patterns`
+*   **Tools & DevOps:** `Git`, `AWS`, `Docker`, `Postman`, `Swagger`, `Linux`
 ---
 
 ## 🚀 פרויקטים נבחרים וניסיון מעשי
