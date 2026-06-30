@@ -10,13 +10,12 @@ Software Engineering student with a passion for building complex backend archite
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `JavaScript` | `TypeScript` | `Python` | `C#` | `Java` |
-| **Frontend** | `React` | `Angular` | `Redux Toolkit` | `Vite` | `MUI` | `HTML5/CSS3` |
-| **Backend** | `Node.js` | `Express` | `.NET Core` | `Web API` |
-| **Databases** | `MongoDB` | `SQL Server` | `DynamoDB` |
-| **AI & Arch** | `MCP (Model Context Protocol)` | `LLM Integration` | `Microservices` | `OOP` |
-| **Tools/DevOps**| `Git` | `AWS` | `Docker` | `Postman` | `Swagger` | `Linux` |
-
+| **Languages** | JavaScript, TypeScript, Python, C#, Java |
+| **Frontend** | React, Angular, Redux Toolkit, Vite, MUI |
+| **Backend** | Node.js, Express, .NET Core, Web API |
+| **Databases** | MongoDB, SQL Server, DynamoDB |
+| **AI & Arch** | MCP (Model Context Protocol), LLM Integration, OOP |
+| **Tools/DevOps**| Git, AWS, Docker, Postman, Linux |
 ---
 
 ## 🚀 Projects & Experience
