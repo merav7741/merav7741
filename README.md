@@ -1,39 +1,41 @@
-# היי, אני מירב יאיר 👋
+# Hi, I'm Merav Yair 👋
 
-### Full Stack Developer | AI & MCP Architecture Specialist
+### Full Stack Developer | AI Orchestration & MCP Specialist
 
-מפתחת Full Stack וסטודנטית להנדסת תוכנה (מה"ט). מתמחה בארכיטקטורת צד-שרת מורכבת, פיתוח ממשקי משתמש מתקדמים ושילוב סוכני AI (LLM & MCP) בסביבות עבודה ארגוניות. כותבת קוד מודולרי, נקי ובר-תחזוקה.
-
----
-### 🛠 טכנולוגיות וכלים
-
-*   **Backend:** `Node.js`, `Express`, `Python`, `C# .NET Core`, `Web API`, `Java`
-*   **Frontend:** `React`, `TypeScript`, `JavaScript`, `Angular`, `Redux Toolkit`, `Vite`, `MUI`
-*   **Database:** `MongoDB`, `SQL Server`, `DynamoDB`
-*   **Architecture & AI:** `MCP (Model Context Protocol)`, `LLM Integration`, `Microservices`, `OOP`, `Design Patterns`
-*   **Tools & DevOps:** `Git`, `AWS`, `Docker`, `Postman`, `Swagger`, `Linux`
----
-
-## 🚀 פרויקטים נבחרים וניסיון מעשי
-
-### 🧠 שילוב מודלי שפה ותשתיות AI (התמחות - AppsFlyer)
-* **מהות:** פיתוח ותכנון שרתי **MCP (Model Context Protocol)** בסביבת Python.
-* **יישום:** חיבור מאובטח של מודלי LLM למקורות מידע, ואופטימיזציה של מנגנוני Tool/Function Calling.
-* **אוטומציה:** תזמור (Orchestration) של Workflows להפעלת כלים חיצוניים באופן עצמאי על ידי מודל השפה.
-
-### 🏢 פלטפורמת Full Stack לתיווך דירות (פרויקט גמר הנדסאים)
-* **מהות:** פיתוח פלטפורמת קצה-לקצה מבוססת REST API.
-* **טכנולוגיות:** `Node.js`, `Express`, `React`, `TypeScript`, `Redux`, `MongoDB`.
-* **דגשים:** ניהול State מורכב, בניית סכמות מורכבות במסד הנתונים, יישום אימות JWT והרשאות מבוססות תפקיד (RBAC).
-
-### 🛒 מערכת ניהול עסקית - סימולציית קופה
-* **מהות:** סימולציה בארכיטקטורת 3-Tier להפרדת נתונים, לוגיקה ותצוגה.
-* **טכנולוגיות:** `C#`, `.NET`, `XML`.
-* **דגשים:** יישום תבניות עיצוב (Singleton, Factory, DTO) וניהול שגיאות להבטחת יציבות המערכת.
+Software Engineering student with a passion for building complex backend architectures, AI-integrated workflows, and scalable full-stack applications.
 
 ---
 
-## 📈 סטטיסטיקות GitHub
+## 💻 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` | `TypeScript` | `Python` | `C#` | `Java` |
+| **Frontend** | `React` | `Angular` | `Redux Toolkit` | `Vite` | `MUI` | `HTML5/CSS3` |
+| **Backend** | `Node.js` | `Express` | `.NET Core` | `Web API` |
+| **Databases** | `MongoDB` | `SQL Server` | `DynamoDB` |
+| **AI & Arch** | `MCP (Model Context Protocol)` | `LLM Integration` | `Microservices` | `OOP` |
+| **Tools/DevOps**| `Git` | `AWS` | `Docker` | `Postman` | `Swagger` | `Linux` |
+
+---
+
+## 🚀 Projects & Experience
+
+### 🧠 AI Engineering Practicum | AppsFlyer
+*   **Focus:** Planning and deploying custom **MCP (Model Context Protocol)** servers.
+*   **Key Achievement:** Optimized LLM-to-tool integration, enhancing contextual accuracy and autonomous workflow execution.
+
+### 🏢 Full Stack Real Estate Platform
+*   **Stack:** `Node.js`, `React`, `TypeScript`, `Redux`, `MongoDB`.
+*   **Key Features:** REST API architecture, JWT authentication, RBAC authorization, and state management optimization.
+
+### 🛒 Business Management System (POS Simulation)
+*   **Stack:** `C#`, `.NET`, `XML`.
+*   **Key Features:** 3-Tier architecture implementation, OOP design patterns (Singleton, Factory), and DTO-based data transfer.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -42,7 +44,6 @@
 
 ---
 
-## 📫 יצירת קשר
-
-* **אימייל:** [my0583257741@gmail.com](mailto:my0583257741@gmail.com)
-* **טלפון:** 058-3257741
+## 📫 Connect with me
+* **Email:** [my0583257741@gmail.com](mailto:my0583257741@gmail.com)
+* **Phone:** 058-3257741
