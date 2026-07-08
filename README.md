@@ -14,8 +14,9 @@ Software Engineering student with a passion for building complex backend archite
 | **Frontend** | React, Angular, Redux Toolkit, Vite, MUI |
 | **Backend** | Node.js, Express, .NET Core, Web API |
 | **Databases** | MongoDB, SQL Server, DynamoDB |
-| **AI & Arch** | LangChain, LangGraph, LLM, MCP, Prompt Engineering , OOP |
+| **AI & Arch** | LangChain, LangGraph, LLM, MCP, Prompt Engineering, OOP |
 | **Tools/DevOps**| Git, AWS, Docker, Postman, Linux |
+
 ---
 
 ## 🚀 Projects & Experience
